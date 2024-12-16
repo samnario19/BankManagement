@@ -1,0 +1,83 @@
+Request Payload: null
+Request Payload: {"user-id":"1","type":"deposit","amount":1000}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: deposit, Amount: 1000, Date: 2024-12-10 11:46:50
+Request Payload: null
+Request Payload: {"user-id":"1","type":"deposit","amount":100}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: deposit, Amount: 100, Date: 2024-12-10 11:54:07
+Request Payload: null
+Request Payload: {"user-id":"1","type":"deposit","amount":10}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: deposit, Amount: 10, Date: 2024-12-10 12:13:27
+Request Payload: null
+Request Payload: {"user-id":"1","type":"deposit","amount":"10"}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: deposit, Amount: 10, Date: 2024-12-10 12:14:12
+Request Payload: null
+Request Payload: {"user-id":"1","type":"deposit","amount":"100"}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: deposit, Amount: 100, Date: 2024-12-10 13:55:29
+Request Payload: null
+Request Payload: {"user-id":"1","type":"transfer","amount":1000}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: transfer, Amount: 1000, Date: 2024-12-10 14:04:52
+Request Payload: null
+Request Payload: {"user-id":"1","type":"transfer","amount":10}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: transfer, Amount: 10, Date: 2024-12-10 14:05:12
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":1}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 1, Date: 2024-12-10 14:06:19
+Request Payload: null
+Request Payload: {"user-id":"1","type":"deposit","amount":"100000000"}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: deposit, Amount: 100000000, Date: 2024-12-10 14:44:05
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":1}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 1, Date: 2024-12-10 14:48:02
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":1}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 1, Date: 2024-12-10 14:52:19
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":10}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 10, Date: 2024-12-12 05:16:51
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":100}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 100, Date: 2024-12-12 05:30:51
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":1}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 1, Date: 2024-12-12 05:52:59
+Request Payload: {"user-id":"1","type":"deposit","amount":"01"}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: deposit, Amount: 01, Date: 2024-12-12 05:53:02
+Request Payload: null
+Request Payload: {"user-id":"1","type":"transfer","amount":123213}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: transfer, Amount: 123213, Date: 2024-12-12 05:53:38
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":1000}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 1000, Date: 2024-12-12 07:21:57
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":9000000}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 9000000, Date: 2024-12-12 07:22:13
+Request Payload: null
+Request Payload: {"user-id":"1","type":"withdraw","amount":900000}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: withdraw, Amount: 900000, Date: 2024-12-12 07:22:32
+Request Payload: null
+Request Payload: {"user-id":"1","type":"transfer","amount":100}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 1, Type: transfer, Amount: 100, Date: 2024-12-12 07:23:01
+Request Payload: null
+Request Payload: {"user-id":"3","type":"withdraw","amount":1000}
+SQL: INSERT INTO transactions (`user-id`, `type`, `amount`, `date`) VALUES (?, ?, ?, ?)
+UserID: 3, Type: withdraw, Amount: 1000, Date: 2024-12-12 07:23:23
